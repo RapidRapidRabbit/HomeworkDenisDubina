@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Infrasctructure\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControlWork1.DAL\ControlWork1.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
