@@ -1,0 +1,420 @@
+2021-09-28 09:22:26.204 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:22:26.255 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:22:26.256 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:22:26.256 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:22:27.663 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:22:27.765 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 105.7575ms
+2021-09-28 09:22:51.990 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:22:52.055 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:22:52.055 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:22:52.056 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:22:52.813 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:22:52.852 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 41.1507ms
+2021-09-28 09:22:52.862 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:22:52.924 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 61.9134ms
+2021-09-28 09:22:53.345 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2021-09-28 09:22:53.350 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:22:53.351 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:22:53.394 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:22:53.394 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:22:53.394 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-09-28 09:22:53.397 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 46.3303ms
+2021-09-28 09:22:53.397 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 46.9478ms
+2021-09-28 09:22:53.397 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 142933 text/css 51.7521ms
+2021-09-28 09:22:53.553 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - -
+2021-09-28 09:22:53.554 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-09-28 09:22:53.557 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - - - 200 628 image/png 4.6510ms
+2021-09-28 09:23:07.316 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:23:07.365 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:23:07.386 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:23:07.387 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:23:08.963 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:23:09.061 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 100.2879ms
+2021-09-28 09:25:44.588 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:25:44.633 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:25:44.633 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:25:44.633 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:25:45.937 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:25:46.028 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 95.1554ms
+2021-09-28 09:28:12.527 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:28:12.572 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:28:12.579 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:28:12.579 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:28:13.885 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:28:13.976 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 94.0316ms
+2021-09-28 09:28:24.922 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:28:24.963 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:28:24.964 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:28:24.964 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:28:25.485 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:28:25.528 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 45.7190ms
+2021-09-28 09:28:25.542 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:28:25.609 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 66.0433ms
+2021-09-28 09:28:25.669 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:28:25.672 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:28:25.702 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:28:25.702 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:28:25.709 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 39.4524ms
+2021-09-28 09:28:25.709 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 36.3098ms
+2021-09-28 09:28:25.825 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 09:28:25.825 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 09:28:25.827 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 2.1425ms
+2021-09-28 09:28:25.871 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 09:28:25.941 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 69.9435ms
+2021-09-28 09:28:42.301 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddBook/Ff/1111 - 0
+2021-09-28 09:28:42.331 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.BookController.AddBook (Homework 6-9)'
+2021-09-28 09:28:42.443 +03:00 [INF] Route matched with {action = "AddBook", controller = "Book"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddBook(Homework_6_9.Models.Book) on controller Homework_6_9.Controllers.BookController (Homework 6-9).
+2021-09-28 09:28:42.461 +03:00 [ERR] SOMETHING
+2021-09-28 09:28:42.513 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.Book'.
+2021-09-28 09:28:42.528 +03:00 [INF] Executed action Homework_6_9.Controllers.BookController.AddBook (Homework 6-9) in 64.6564ms
+2021-09-28 09:28:42.531 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.BookController.AddBook (Homework 6-9)'
+2021-09-28 09:28:42.531 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddBook/Ff/1111 - 0 - 200 - application/json;+charset=utf-8 230.2144ms
+2021-09-28 09:28:47.597 +03:00 [INF] Application is shutting down...
+2021-09-28 09:34:49.019 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:34:49.061 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:34:49.061 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:34:49.062 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:34:49.375 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:34:49.420 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 47.0305ms
+2021-09-28 09:34:49.430 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:34:49.493 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 59.9156ms
+2021-09-28 09:34:49.551 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:34:49.551 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:34:49.584 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:34:49.588 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 36.8211ms
+2021-09-28 09:34:49.585 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:34:49.590 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 39.7202ms
+2021-09-28 09:34:49.701 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 09:34:49.703 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 09:34:49.705 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 3.1733ms
+2021-09-28 09:34:49.748 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 09:34:49.823 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 75.0705ms
+2021-09-28 09:35:17.057 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddUser/dwd/11/4009509158984446 - 0
+2021-09-28 09:35:17.089 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:35:17.121 +03:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.User) on controller Homework_6_9.Controllers.UserController (Homework 6-9).
+2021-09-28 09:35:17.159 +03:00 [WRN] Имя начинается не с заглавной буквы
+2021-09-28 09:35:17.167 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 09:35:17.185 +03:00 [INF] Executed action Homework_6_9.Controllers.UserController.AddUser (Homework 6-9) in 56.0593ms
+2021-09-28 09:35:17.189 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:35:17.190 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddUser/dwd/11/4009509158984446 - 0 - 400 - application/problem+json;+charset=utf-8 132.5469ms
+2021-09-28 09:35:32.432 +03:00 [INF] Application is shutting down...
+2021-09-28 09:39:32.865 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:39:32.921 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:39:32.922 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:39:32.922 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:39:33.396 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:39:33.435 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 42.6916ms
+2021-09-28 09:39:33.446 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:39:33.510 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 61.2623ms
+2021-09-28 09:39:33.565 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:39:33.565 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:39:33.597 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:39:33.597 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:39:33.600 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 35.1773ms
+2021-09-28 09:39:33.600 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 35.3659ms
+2021-09-28 09:39:33.728 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 09:39:33.730 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 09:39:33.732 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 3.5733ms
+2021-09-28 09:39:33.752 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 09:39:33.827 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 74.3517ms
+2021-09-28 09:39:40.462 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddBook/fwf/fwff - 0
+2021-09-28 09:39:40.493 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.BookController.AddBook (Homework 6-9)'
+2021-09-28 09:39:40.520 +03:00 [INF] Route matched with {action = "AddBook", controller = "Book"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddBook(Homework_6_9.Models.Book) on controller Homework_6_9.Controllers.BookController (Homework 6-9).
+2021-09-28 09:39:40.556 +03:00 [WRN] Model is not valid
+2021-09-28 09:39:40.561 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 09:39:40.580 +03:00 [INF] Executed action Homework_6_9.Controllers.BookController.AddBook (Homework 6-9) in 51.9298ms
+2021-09-28 09:39:40.583 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.BookController.AddBook (Homework 6-9)'
+2021-09-28 09:39:40.585 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddBook/fwf/fwff - 0 - 400 - application/problem+json;+charset=utf-8 122.0029ms
+2021-09-28 09:39:57.935 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/wfwf/-11/wfwf - 0
+2021-09-28 09:39:57.937 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 09:39:57.942 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 09:39:57.980 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 09:39:57.982 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 39.4181ms
+2021-09-28 09:39:57.985 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 09:39:57.985 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/wfwf/-11/wfwf - 0 - 400 - application/problem+json;+charset=utf-8 49.7122ms
+2021-09-28 09:40:25.533 +03:00 [INF] Application is shutting down...
+2021-09-28 09:41:14.705 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:41:14.774 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:41:14.774 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:41:14.775 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:41:14.978 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:41:15.028 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 53.0694ms
+2021-09-28 09:41:15.040 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:41:15.100 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 59.7860ms
+2021-09-28 09:41:15.160 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:41:15.163 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:41:15.200 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:41:15.205 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 43.6345ms
+2021-09-28 09:41:15.203 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:41:15.205 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 45.8117ms
+2021-09-28 09:41:15.313 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 09:41:15.315 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 09:41:15.315 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 2.9302ms
+2021-09-28 09:41:15.365 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 09:41:15.433 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 69.3199ms
+2021-09-28 09:42:11.081 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddUser/dfd/11/4009509133337348 - 0
+2021-09-28 09:42:11.122 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:42:11.152 +03:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.User) on controller Homework_6_9.Controllers.UserController (Homework 6-9).
+2021-09-28 09:42:11.196 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 09:42:11.216 +03:00 [INF] Executed action Homework_6_9.Controllers.UserController.AddUser (Homework 6-9) in 55.107ms
+2021-09-28 09:42:11.220 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:42:11.221 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddUser/dfd/11/4009509133337348 - 0 - 400 - application/problem+json;+charset=utf-8 139.7766ms
+2021-09-28 09:42:34.229 +03:00 [INF] Application is shutting down...
+2021-09-28 09:43:22.736 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:43:22.778 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:43:22.778 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:43:22.778 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:43:23.457 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:43:23.499 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 47.0456ms
+2021-09-28 09:43:23.512 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:43:23.574 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 60.9076ms
+2021-09-28 09:43:23.629 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:43:23.629 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:43:23.664 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:43:23.664 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:43:23.669 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 40.3386ms
+2021-09-28 09:43:23.669 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 41.1020ms
+2021-09-28 09:43:23.782 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 09:43:23.784 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 09:43:23.787 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 3.0364ms
+2021-09-28 09:43:23.839 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 09:43:23.909 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 70.2610ms
+2021-09-28 09:43:37.354 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddUser/Fdf/11/efef - 0
+2021-09-28 09:43:37.389 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:43:37.422 +03:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.User) on controller Homework_6_9.Controllers.UserController (Homework 6-9).
+2021-09-28 09:43:37.461 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 09:43:37.479 +03:00 [INF] Executed action Homework_6_9.Controllers.UserController.AddUser (Homework 6-9) in 50.9737ms
+2021-09-28 09:43:37.483 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:43:37.483 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddUser/Fdf/11/efef - 0 - 400 - application/problem+json;+charset=utf-8 129.8052ms
+2021-09-28 09:43:47.648 +03:00 [INF] Application is shutting down...
+2021-09-28 09:53:20.491 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:53:20.531 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:53:20.533 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:53:20.536 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:53:20.808 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:53:20.848 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 44.3010ms
+2021-09-28 09:53:20.865 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:53:20.924 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 58.9328ms
+2021-09-28 09:53:20.985 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2021-09-28 09:53:20.990 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:53:20.992 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:53:21.022 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:53:21.022 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:53:21.022 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-09-28 09:53:21.024 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 32.7057ms
+2021-09-28 09:53:21.024 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 33.6214ms
+2021-09-28 09:53:21.025 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 142933 text/css 40.3678ms
+2021-09-28 09:53:21.145 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 09:53:21.148 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 09:53:21.149 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 3.8244ms
+2021-09-28 09:53:21.187 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 09:53:21.257 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 70.4121ms
+2021-09-28 09:53:35.025 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddUser/Vdvd/11/jjtjtj - 0
+2021-09-28 09:53:35.055 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:53:35.084 +03:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.User) on controller Homework_6_9.Controllers.UserController (Homework 6-9).
+2021-09-28 09:53:35.120 +03:00 [WRN] Model is not valid
+2021-09-28 09:53:35.128 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 09:53:35.148 +03:00 [INF] Executed action Homework_6_9.Controllers.UserController.AddUser (Homework 6-9) in 55.5394ms
+2021-09-28 09:53:35.151 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:53:35.153 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddUser/Vdvd/11/jjtjtj - 0 - 400 - application/problem+json;+charset=utf-8 127.8933ms
+2021-09-28 09:54:00.301 +03:00 [INF] Application is shutting down...
+2021-09-28 09:54:17.247 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:54:17.299 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:54:17.300 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:54:17.307 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:54:17.683 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:54:17.742 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 64.3270ms
+2021-09-28 09:54:17.760 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:54:17.825 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 65.8617ms
+2021-09-28 09:54:17.885 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:54:17.885 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:54:17.915 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:54:17.917 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 33.2750ms
+2021-09-28 09:54:17.915 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:54:17.920 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 34.4232ms
+2021-09-28 09:54:18.027 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 09:54:18.030 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 09:54:18.030 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 2.7063ms
+2021-09-28 09:54:18.087 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 09:54:18.157 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 70.4784ms
+2021-09-28 09:54:29.390 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddUser/Fdfdf/11/dfdf - 0
+2021-09-28 09:54:29.422 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:54:29.450 +03:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.User) on controller Homework_6_9.Controllers.UserController (Homework 6-9).
+2021-09-28 09:54:29.490 +03:00 [WRN] Model is not valid
+2021-09-28 09:54:29.497 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 09:54:29.517 +03:00 [INF] Executed action Homework_6_9.Controllers.UserController.AddUser (Homework 6-9) in 59.1217ms
+2021-09-28 09:54:29.520 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.UserController.AddUser (Homework 6-9)'
+2021-09-28 09:54:29.522 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddUser/Fdfdf/11/dfdf - 0 - 400 - application/problem+json;+charset=utf-8 132.3172ms
+2021-09-28 09:54:41.207 +03:00 [INF] Application is shutting down...
+2021-09-28 09:56:59.252 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 09:56:59.297 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 09:56:59.298 +03:00 [INF] Hosting environment: Development
+2021-09-28 09:56:59.299 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 09:56:59.741 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 09:56:59.791 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 52.0603ms
+2021-09-28 09:56:59.801 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 09:56:59.860 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 59.0409ms
+2021-09-28 09:56:59.918 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 09:56:59.923 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 09:56:59.960 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 09:56:59.960 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 09:56:59.962 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 39.2773ms
+2021-09-28 09:56:59.962 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 43.9168ms
+2021-09-28 09:57:00.072 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 09:57:00.073 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 09:57:00.077 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 4.4803ms
+2021-09-28 09:57:00.117 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 09:57:00.196 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 78.0809ms
+2021-09-28 09:57:08.998 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/hrh/11/eef - 0
+2021-09-28 09:57:09.030 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 09:57:09.058 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 09:57:09.131 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.Product'.
+2021-09-28 09:57:09.146 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 79.6458ms
+2021-09-28 09:57:09.150 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 09:57:09.151 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/hrh/11/eef - 0 - 200 - application/json;+charset=utf-8 152.5074ms
+2021-09-28 10:18:11.683 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 10:18:11.728 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 10:18:11.730 +03:00 [INF] Hosting environment: Development
+2021-09-28 10:18:11.730 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 10:18:12.240 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 10:18:12.283 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 42.9661ms
+2021-09-28 10:18:12.293 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 10:18:12.353 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 59.5332ms
+2021-09-28 10:18:12.405 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2021-09-28 10:18:12.408 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 10:18:12.405 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 10:18:12.450 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-09-28 10:18:12.450 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 10:18:12.450 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 10:18:12.453 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 43.5040ms
+2021-09-28 10:18:12.453 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 142933 text/css 47.8635ms
+2021-09-28 10:18:12.453 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 47.3298ms
+2021-09-28 10:18:12.578 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 10:18:12.580 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 10:18:12.583 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 3.1098ms
+2021-09-28 10:18:12.625 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 10:18:12.690 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 65.7925ms
+2021-09-28 10:18:34.504 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/    /10/ывава - 0
+2021-09-28 10:18:34.547 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:18:34.579 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 10:18:34.654 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 10:18:34.672 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 85.5705ms
+2021-09-28 10:18:34.677 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:18:34.677 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/    /10/ывава - 0 - 400 - application/problem+json;+charset=utf-8 174.0607ms
+2021-09-28 10:18:40.069 +03:00 [INF] Application is shutting down...
+2021-09-28 10:22:55.031 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 10:22:55.076 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 10:22:55.078 +03:00 [INF] Hosting environment: Development
+2021-09-28 10:22:55.078 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 10:22:55.550 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 10:22:55.610 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 60.7315ms
+2021-09-28 10:22:55.620 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 10:22:55.682 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 63.1092ms
+2021-09-28 10:22:55.737 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 10:22:55.737 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 10:22:55.777 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 10:22:55.777 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 10:22:55.780 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 42.9267ms
+2021-09-28 10:22:55.780 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 43.4690ms
+2021-09-28 10:22:55.892 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 10:22:55.895 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 10:22:55.897 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 3.1105ms
+2021-09-28 10:22:55.940 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 10:22:56.010 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 68.7449ms
+2021-09-28 10:23:16.500 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/   /-1/вава - 0
+2021-09-28 10:23:16.535 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:23:16.566 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 10:23:16.626 +03:00 [WRN] Product name is not valid
+2021-09-28 10:23:16.637 +03:00 [WRN] Price is not valid
+2021-09-28 10:23:16.646 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 10:23:16.663 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 90.0826ms
+2021-09-28 10:23:16.668 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:23:16.668 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/   /-1/вава - 0 - 400 - application/problem+json;+charset=utf-8 168.9042ms
+2021-09-28 10:23:38.415 +03:00 [INF] Application is shutting down...
+2021-09-28 10:23:42.139 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 10:23:42.182 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 10:23:42.183 +03:00 [INF] Hosting environment: Development
+2021-09-28 10:23:42.184 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 10:23:42.473 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 10:23:42.519 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 49.4810ms
+2021-09-28 10:23:42.534 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 10:23:42.597 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 61.5414ms
+2021-09-28 10:23:42.659 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 10:23:42.659 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 10:23:42.694 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 10:23:42.694 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 10:23:42.696 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 37.5790ms
+2021-09-28 10:23:42.696 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 37.5222ms
+2021-09-28 10:23:42.804 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 10:23:42.805 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 10:23:42.806 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 2.8417ms
+2021-09-28 10:23:42.846 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 10:23:42.916 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 69.4521ms
+2021-09-28 10:23:57.787 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/fefdf/11/dfdf - 0
+2021-09-28 10:23:57.818 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:23:57.848 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 10:23:57.925 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 10:23:57.944 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 89.404ms
+2021-09-28 10:23:57.948 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:23:57.949 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/fefdf/11/dfdf - 0 - 400 - application/problem+json;+charset=utf-8 162.6511ms
+2021-09-28 10:24:09.018 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/fefdf/11/dfdf - 0
+2021-09-28 10:24:09.023 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:24:09.025 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 10:24:09.028 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 10:24:09.030 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 2.9969ms
+2021-09-28 10:24:09.030 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:24:09.033 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/fefdf/11/dfdf - 0 - 400 - application/problem+json;+charset=utf-8 14.2943ms
+2021-09-28 10:24:24.701 +03:00 [INF] Application is shutting down...
+2021-09-28 10:24:55.278 +03:00 [INF] Now listening on: http://localhost:5000
+2021-09-28 10:24:55.321 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-28 10:24:55.321 +03:00 [INF] Hosting environment: Development
+2021-09-28 10:24:55.323 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-09-28 10:24:55.655 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-09-28 10:24:55.698 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 45.0025ms
+2021-09-28 10:24:55.715 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-09-28 10:24:55.777 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 61.4221ms
+2021-09-28 10:24:55.833 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-09-28 10:24:55.834 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-09-28 10:24:55.864 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-09-28 10:24:55.864 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-09-28 10:24:55.867 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 33.6028ms
+2021-09-28 10:24:55.867 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 32.9847ms
+2021-09-28 10:24:55.981 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - -
+2021-09-28 10:24:55.983 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-09-28 10:24:55.984 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - - - 200 665 image/png 2.7622ms
+2021-09-28 10:24:56.028 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-09-28 10:24:56.108 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 79.5656ms
+2021-09-28 10:25:04.261 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/fgfg/11/dfdf - 0
+2021-09-28 10:25:04.293 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:25:04.321 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 10:25:04.391 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.Product'.
+2021-09-28 10:25:04.408 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 79.0018ms
+2021-09-28 10:25:04.411 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:25:04.413 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/fgfg/11/dfdf - 0 - 200 - application/json;+charset=utf-8 152.6196ms
+2021-09-28 10:25:13.017 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/fgfg/-1/dfdf - 0
+2021-09-28 10:25:13.020 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:25:13.022 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 10:25:13.027 +03:00 [WRN] Price is not valid
+2021-09-28 10:25:13.032 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 10:25:13.040 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 15.3845ms
+2021-09-28 10:25:13.042 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:25:13.045 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/fgfg/-1/dfdf - 0 - 400 - application/problem+json;+charset=utf-8 25.6975ms
+2021-09-28 10:25:19.952 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/   /-1/    - 0
+2021-09-28 10:25:19.955 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:25:19.957 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 10:25:19.960 +03:00 [WRN] Product name is not valid
+2021-09-28 10:25:19.960 +03:00 [WRN] Description is not valid
+2021-09-28 10:25:19.960 +03:00 [WRN] Price is not valid
+2021-09-28 10:25:19.962 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 10:25:19.962 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 4.0008ms
+2021-09-28 10:25:19.962 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:25:19.965 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/   /-1/    - 0 - 400 - application/problem+json;+charset=utf-8 10.9962ms
+2021-09-28 10:25:30.917 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/AddProduct/dfdfdf/11/    - 0
+2021-09-28 10:25:30.917 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:25:30.920 +03:00 [INF] Route matched with {action = "AddUser", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddUser(Homework_6_9.Models.Product) on controller Homework_6_9.Controllers.ProductController (Homework 6-9).
+2021-09-28 10:25:30.922 +03:00 [WRN] Description is not valid
+2021-09-28 10:25:30.922 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-09-28 10:25:30.925 +03:00 [INF] Executed action Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9) in 2.2855ms
+2021-09-28 10:25:30.925 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.ProductController.AddUser (Homework 6-9)'
+2021-09-28 10:25:30.927 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/AddProduct/dfdfdf/11/    - 0 - 400 - application/problem+json;+charset=utf-8 10.3582ms
+2021-09-28 10:26:13.726 +03:00 [INF] Application is shutting down...
