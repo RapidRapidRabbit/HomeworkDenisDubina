@@ -1,0 +1,372 @@
+2021-10-10 00:04:02.028 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:04:02.078 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:04:02.080 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:04:02.080 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:04:02.838 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:04:02.943 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 107.4554ms
+2021-10-10 00:04:03.108 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:04:03.201 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 93.3338ms
+2021-10-10 00:06:31.310 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:06:31.352 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:06:31.352 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:06:31.352 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:06:31.783 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:06:31.901 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 121.4404ms
+2021-10-10 00:06:32.075 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:06:32.161 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.1881ms
+2021-10-10 00:24:57.757 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:24:57.807 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:24:57.807 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:24:57.809 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:24:58.893 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:24:59.020 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 125.4922ms
+2021-10-10 00:24:59.214 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:24:59.309 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.4394ms
+2021-10-10 00:25:02.874 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - -
+2021-10-10 00:25:02.914 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:25:02.940 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-10 00:25:02.980 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-10 00:25:02.996 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 48.446ms
+2021-10-10 00:25:02.999 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:25:03.000 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - - - 200 - application/json;+charset=utf-8 126.1055ms
+2021-10-10 00:25:08.828 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=4 - -
+2021-10-10 00:25:08.830 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:25:08.831 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-10 00:25:08.837 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-10 00:25:08.839 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 5.7863ms
+2021-10-10 00:25:08.841 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:25:08.846 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=4 - - - 200 - application/json;+charset=utf-8 18.6029ms
+2021-10-10 00:25:21.305 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=1&Take=1 - -
+2021-10-10 00:25:21.306 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:25:21.308 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-10 00:25:21.315 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-10 00:25:21.317 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 3.4793ms
+2021-10-10 00:25:21.318 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:25:21.319 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=1&Take=1 - - - 200 - application/json;+charset=utf-8 13.9288ms
+2021-10-10 00:43:05.253 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:43:05.294 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:43:05.295 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:43:05.295 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:43:06.028 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:43:06.141 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 114.9086ms
+2021-10-10 00:43:06.316 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:43:06.413 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 96.7198ms
+2021-10-10 00:44:04.065 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:44:04.142 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:44:04.143 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:44:04.143 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:44:04.774 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:44:04.896 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 124.8809ms
+2021-10-10 00:44:05.072 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:44:05.162 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.1537ms
+2021-10-10 00:44:11.124 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - -
+2021-10-10 00:44:11.162 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:44:11.188 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-10 00:44:11.229 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-10 00:44:11.244 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 49.7405ms
+2021-10-10 00:44:11.248 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:44:11.249 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - - - 200 - application/json;+charset=utf-8 124.8168ms
+2021-10-10 00:44:19.642 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=1&Take=1 - -
+2021-10-10 00:44:19.645 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:44:19.646 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-10 00:44:19.652 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-10 00:44:19.654 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 6.1196ms
+2021-10-10 00:44:19.656 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 00:44:19.658 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=1&Take=1 - - - 200 - application/json;+charset=utf-8 15.6486ms
+2021-10-10 00:48:32.959 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:48:33.012 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:48:33.014 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:48:33.014 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:48:33.673 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:48:33.806 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 136.3372ms
+2021-10-10 00:48:33.978 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:48:34.068 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.4927ms
+2021-10-10 00:49:00.817 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:49:00.862 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:49:00.865 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:49:00.865 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:49:01.861 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:49:01.970 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 113.1510ms
+2021-10-10 00:49:02.179 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:49:02.272 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 92.9996ms
+2021-10-10 00:49:11.099 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=sss - 0
+2021-10-10 00:49:11.148 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 00:49:11.179 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 00:49:11.223 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 00:49:11.238 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 52.4112ms
+2021-10-10 00:49:11.241 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 00:49:11.242 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=sss - 0 - 200 - application/json;+charset=utf-8 143.2356ms
+2021-10-10 00:57:24.760 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:57:24.800 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:57:24.800 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:57:24.800 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:57:25.890 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:57:26.007 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 118.5047ms
+2021-10-10 00:57:26.192 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:57:26.304 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 111.9723ms
+2021-10-10 00:57:30.584 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=ggg - 0
+2021-10-10 00:57:30.619 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 00:57:30.647 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 00:59:16.237 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 00:59:16.277 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 00:59:16.277 +03:00 [INF] Hosting environment: Development
+2021-10-10 00:59:16.277 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 00:59:16.821 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 00:59:16.935 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 117.5691ms
+2021-10-10 00:59:17.105 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 00:59:17.191 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.0727ms
+2021-10-10 00:59:20.865 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=%20%20 - 0
+2021-10-10 00:59:20.900 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 00:59:20.926 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 00:59:20.945 +03:00 [INF] Executing OkObjectResult, writing value of type 'null'.
+2021-10-10 00:59:20.951 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 18.4178ms
+2021-10-10 00:59:20.954 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 00:59:20.954 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=%20%20 - 0 - 204 0 - 88.9086ms
+2021-10-10 00:59:29.054 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=efe - 0
+2021-10-10 00:59:29.058 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 00:59:29.060 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 00:59:29.063 +03:00 [INF] Executing OkObjectResult, writing value of type 'null'.
+2021-10-10 00:59:29.064 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 1.6771ms
+2021-10-10 00:59:29.066 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 00:59:29.067 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=efe - 0 - 204 0 - 12.3149ms
+2021-10-10 01:08:08.989 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 01:08:09.034 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 01:08:09.034 +03:00 [INF] Hosting environment: Development
+2021-10-10 01:08:09.034 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 01:08:10.128 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:08:10.267 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 141.7195ms
+2021-10-10 01:08:10.450 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:08:10.545 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 94.9990ms
+2021-10-10 01:08:14.306 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=1 - 0
+2021-10-10 01:08:14.346 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:08:14.370 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:08:14.409 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:08:14.423 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 46.6739ms
+2021-10-10 01:08:14.426 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:08:14.427 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=1 - 0 - 200 - application/json;+charset=utf-8 120.5183ms
+2021-10-10 01:08:53.404 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 01:08:53.454 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 01:08:53.454 +03:00 [INF] Hosting environment: Development
+2021-10-10 01:08:53.454 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 01:08:54.393 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:08:54.561 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 169.6391ms
+2021-10-10 01:08:54.739 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:08:54.832 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 92.1217ms
+2021-10-10 01:09:00.922 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=11 - 0
+2021-10-10 01:09:00.955 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:09:00.982 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:09:01.019 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:09:01.033 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 44.7312ms
+2021-10-10 01:09:01.036 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:09:01.037 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=11 - 0 - 200 - application/json;+charset=utf-8 114.6075ms
+2021-10-10 01:09:42.923 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 01:09:42.971 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 01:09:42.976 +03:00 [INF] Hosting environment: Development
+2021-10-10 01:09:42.976 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 01:09:43.788 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:09:43.924 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 138.8810ms
+2021-10-10 01:09:44.107 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:09:44.195 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 88.1747ms
+2021-10-10 01:09:50.232 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=1 - 0
+2021-10-10 01:09:50.268 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:09:50.294 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:09:50.334 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:09:50.348 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 46.8272ms
+2021-10-10 01:09:50.351 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:09:50.352 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=1 - 0 - 200 - application/json;+charset=utf-8 119.6327ms
+2021-10-10 01:10:01.208 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:01.211 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:01.213 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:01.217 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:01.219 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 2.5617ms
+2021-10-10 01:10:01.220 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:01.221 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 13.6280ms
+2021-10-10 01:10:03.884 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:03.886 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:03.889 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:03.892 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:03.894 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 2.7438ms
+2021-10-10 01:10:03.895 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:03.896 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 11.8931ms
+2021-10-10 01:10:05.235 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:05.236 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:05.239 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:05.242 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:05.244 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 2.8407ms
+2021-10-10 01:10:05.246 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:05.249 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 13.8515ms
+2021-10-10 01:10:06.276 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:06.278 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:06.279 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:06.281 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:06.282 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 1.2136ms
+2021-10-10 01:10:06.284 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:06.285 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 8.9994ms
+2021-10-10 01:10:07.460 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:07.461 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:07.462 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:07.465 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:07.466 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 1.3005ms
+2021-10-10 01:10:07.467 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:07.469 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 8.8307ms
+2021-10-10 01:10:09.410 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:09.412 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:09.415 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:09.420 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:09.422 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 2.8192ms
+2021-10-10 01:10:09.424 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:09.428 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 18.4274ms
+2021-10-10 01:10:10.553 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:10.555 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:10.558 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:10.563 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:10.565 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 2.2589ms
+2021-10-10 01:10:10.567 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:10.569 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 15.8221ms
+2021-10-10 01:10:11.315 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:11.317 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:11.318 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:11.320 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:11.321 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 1.4984ms
+2021-10-10 01:10:11.323 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:11.324 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 9.2657ms
+2021-10-10 01:10:12.943 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:12.945 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:12.947 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:12.951 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:12.953 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 2.3352ms
+2021-10-10 01:10:12.955 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:12.957 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 13.1658ms
+2021-10-10 01:10:14.661 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:14.665 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:14.669 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:14.680 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:14.682 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 2.308ms
+2021-10-10 01:10:14.686 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:14.690 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 29.3347ms
+2021-10-10 01:10:15.509 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:15.510 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:15.513 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:15.520 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:15.522 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 1.5853ms
+2021-10-10 01:10:15.523 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:15.524 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 15.1255ms
+2021-10-10 01:10:16.270 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:16.271 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:16.273 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:16.276 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:16.277 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 1.366ms
+2021-10-10 01:10:16.279 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:16.280 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 10.3138ms
+2021-10-10 01:10:17.975 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:17.977 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:17.980 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:17.985 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:17.986 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 2.1117ms
+2021-10-10 01:10:17.987 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:17.988 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 13.4362ms
+2021-10-10 01:10:18.735 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0
+2021-10-10 01:10:18.736 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:18.738 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:10:18.742 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:10:18.745 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 3.4491ms
+2021-10-10 01:10:18.748 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:10:18.750 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=2 - 0 - 200 - application/json;+charset=utf-8 15.5412ms
+2021-10-10 01:11:20.180 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 01:11:20.224 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 01:11:20.224 +03:00 [INF] Hosting environment: Development
+2021-10-10 01:11:20.226 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 01:11:21.392 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:11:21.499 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 109.9693ms
+2021-10-10 01:11:21.691 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:11:21.787 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.9192ms
+2021-10-10 01:11:25.656 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=11 - 0
+2021-10-10 01:11:25.691 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:11:25.717 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:11:25.757 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:11:25.771 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 47.2403ms
+2021-10-10 01:11:25.774 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:11:25.775 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=11 - 0 - 200 - application/json;+charset=utf-8 119.6744ms
+2021-10-10 01:18:48.870 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 01:18:48.912 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 01:18:48.915 +03:00 [INF] Hosting environment: Development
+2021-10-10 01:18:48.915 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 01:18:49.910 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:18:50.023 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 114.4760ms
+2021-10-10 01:18:50.212 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:18:50.325 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 113.3486ms
+2021-10-10 01:18:56.009 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=123 - 0
+2021-10-10 01:18:56.048 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:18:56.074 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:18:56.111 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:18:56.125 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 45.1774ms
+2021-10-10 01:18:56.128 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:18:56.130 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=123 - 0 - 200 - application/json;+charset=utf-8 120.8326ms
+2021-10-10 01:27:03.295 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 01:27:03.340 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 01:27:03.340 +03:00 [INF] Hosting environment: Development
+2021-10-10 01:27:03.340 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 01:27:04.382 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:27:04.496 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 116.8330ms
+2021-10-10 01:27:04.679 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:27:04.775 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.1254ms
+2021-10-10 01:27:09.458 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=3434 - 0
+2021-10-10 01:27:09.498 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:27:09.526 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:27:09.565 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:27:09.580 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 48.6593ms
+2021-10-10 01:27:09.582 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:27:09.583 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company?Name=3434 - 0 - 200 - application/json;+charset=utf-8 125.4444ms
+2021-10-10 01:27:48.301 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 01:27:48.344 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 01:27:48.344 +03:00 [INF] Hosting environment: Development
+2021-10-10 01:27:48.344 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 01:27:49.304 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:27:49.429 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 128.0331ms
+2021-10-10 01:27:49.623 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:27:49.728 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 104.9630ms
+2021-10-10 01:27:52.521 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company - 0
+2021-10-10 01:27:52.558 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:27:52.587 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:27:52.624 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:27:52.639 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 45.6934ms
+2021-10-10 01:27:52.642 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:27:52.643 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/ HomeTask 9 Controllers/Company - 0 - 200 - application/json;+charset=utf-8 122.5986ms
+2021-10-10 01:30:31.259 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-10 01:30:31.309 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-10 01:30:31.309 +03:00 [INF] Hosting environment: Development
+2021-10-10 01:30:31.309 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-10 01:30:32.377 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:30:32.493 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 118.6019ms
+2021-10-10 01:30:32.684 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:30:32.784 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 99.5204ms
+2021-10-10 01:30:37.371 +03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5000/api/HomeTask9Controllers/Company?Name=34 - 0
+2021-10-10 01:30:37.406 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:30:37.438 +03:00 [INF] Route matched with {action = "AddCompany", controller = "Company"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddCompany(Homework_6_9.Models.HomeTask_9_Models.Company) on controller Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController (Homework 6-9).
+2021-10-10 01:30:37.475 +03:00 [INF] Executing OkObjectResult, writing value of type 'Homework_6_9.Models.HomeTask_9_Models.Company'.
+2021-10-10 01:30:37.489 +03:00 [INF] Executed action Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9) in 44.4137ms
+2021-10-10 01:30:37.492 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.HomeTask_9_Controllers.CompanyController.AddCompany (Homework 6-9)'
+2021-10-10 01:30:37.493 +03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5000/api/HomeTask9Controllers/Company?Name=34 - 0 - 200 - application/json;+charset=utf-8 122.2095ms
+2021-10-10 01:30:40.341 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-10 01:30:40.344 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 3.3584ms
+2021-10-10 01:30:40.373 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2021-10-10 01:30:40.375 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-10-10 01:30:40.375 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-10-10 01:30:40.411 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-10-10 01:30:40.414 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-10-10 01:30:40.426 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 51.4445ms
+2021-10-10 01:30:40.424 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-10-10 01:30:40.429 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 53.8840ms
+2021-10-10 01:30:40.424 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 142933 text/css 51.2136ms
+2021-10-10 01:30:40.548 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-10 01:30:40.551 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.9029ms
+2021-10-10 01:30:40.557 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - -
+2021-10-10 01:30:40.558 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-10-10 01:30:40.560 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - - - 200 628 image/png 2.9036ms
+2021-10-10 01:30:46.985 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask8Controllers/Person - -
+2021-10-10 01:30:46.988 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 01:30:46.992 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-10 01:30:47.003 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-10 01:30:47.006 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 9.9395ms
+2021-10-10 01:30:47.007 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-10 01:30:47.008 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask8Controllers/Person - - - 200 - application/json;+charset=utf-8 23.1791ms

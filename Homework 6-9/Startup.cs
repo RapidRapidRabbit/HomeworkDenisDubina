@@ -1,4 +1,5 @@
 using FluentValidation.AspNetCore;
+using Homework_6_9.ModelBinders;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -27,7 +28,7 @@ namespace Homework_6_9
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddControllers();
+            services.AddControllers(options => options.ModelBinderProviders.Insert(0, new CompanyModelBinderProvider()));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Homework_6_9", Version = "v1" });

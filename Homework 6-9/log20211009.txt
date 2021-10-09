@@ -1,0 +1,194 @@
+2021-10-09 23:33:14.307 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:33:14.357 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:33:14.359 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:33:14.359 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:33:15.779 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2021-10-09 23:33:16.017 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 239.7303ms
+2021-10-09 23:33:16.079 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:33:16.191 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 111.8469ms
+2021-10-09 23:33:16.267 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2021-10-09 23:33:16.267 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2021-10-09 23:33:16.283 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2021-10-09 23:33:16.362 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-10-09 23:33:16.364 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-10-09 23:33:16.372 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 142933 text/css 88.3592ms
+2021-10-09 23:33:16.372 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 104.4924ms
+2021-10-09 23:33:16.380 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-10-09 23:33:16.383 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 116.5713ms
+2021-10-09 23:33:16.526 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:33:16.549 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - -
+2021-10-09 23:33:16.552 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-10-09 23:33:16.557 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - - - 200 628 image/png 8.0424ms
+2021-10-09 23:33:16.643 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 116.3930ms
+2021-10-09 23:34:50.302 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:34:50.365 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:34:50.365 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:34:50.366 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:34:51.020 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:34:51.161 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 143.3617ms
+2021-10-09 23:34:51.412 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:34:51.493 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 81.1288ms
+2021-10-09 23:34:56.696 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Person - -
+2021-10-09 23:34:56.733 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:34:56.761 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.CustomerFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:34:56.813 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:34:56.829 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 61.8902ms
+2021-10-09 23:34:56.834 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:34:56.835 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Person - - - 200 - application/json;+charset=utf-8 139.4070ms
+2021-10-09 23:35:04.482 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Person?Skip=1 - -
+2021-10-09 23:35:04.485 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:04.487 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.CustomerFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:35:04.493 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:35:04.495 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 6.2312ms
+2021-10-09 23:35:04.498 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:04.499 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Person?Skip=1 - - - 200 - application/json;+charset=utf-8 16.9046ms
+2021-10-09 23:35:09.294 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Person?Skip=1&Take=1 - -
+2021-10-09 23:35:09.296 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:09.297 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.CustomerFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:35:09.303 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:35:09.304 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 3.0928ms
+2021-10-09 23:35:09.306 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:09.308 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Person?Skip=1&Take=1 - - - 200 - application/json;+charset=utf-8 13.0625ms
+2021-10-09 23:35:12.628 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Person?Take=1 - -
+2021-10-09 23:35:12.634 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:12.636 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.CustomerFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:35:12.639 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:35:12.639 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 1.2033ms
+2021-10-09 23:35:12.641 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:12.642 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Person?Take=1 - - - 200 - application/json;+charset=utf-8 13.9660ms
+2021-10-09 23:35:19.094 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Person?Take=5 - -
+2021-10-09 23:35:19.097 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:19.100 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.CustomerFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:35:19.104 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:35:19.106 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 2.3439ms
+2021-10-09 23:35:19.107 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:19.108 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Person?Take=5 - - - 200 - application/json;+charset=utf-8 13.9699ms
+2021-10-09 23:35:24.946 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Person?Skip=6 - -
+2021-10-09 23:35:24.948 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:24.949 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.CustomerFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:35:24.957 +03:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 204
+2021-10-09 23:35:24.958 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 5.5362ms
+2021-10-09 23:35:24.959 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:35:24.960 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Person?Skip=6 - - - 204 - - 13.9853ms
+2021-10-09 23:36:08.391 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:36:08.443 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:36:08.444 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:36:08.445 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:36:09.098 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:36:09.243 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 147.6884ms
+2021-10-09 23:36:09.432 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:36:09.527 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 92.8151ms
+2021-10-09 23:36:18.263 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - -
+2021-10-09 23:36:18.300 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:36:18.328 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.CustomerFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:36:18.369 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:36:18.384 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 49.7142ms
+2021-10-09 23:36:18.388 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:36:18.389 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - - - 200 - application/json;+charset=utf-8 125.7187ms
+2021-10-09 23:49:30.849 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:49:30.896 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:49:30.896 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:49:30.897 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:49:31.294 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:49:31.397 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 106.8001ms
+2021-10-09 23:49:31.572 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:49:31.664 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 91.3317ms
+2021-10-09 23:50:17.223 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:50:17.268 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:50:17.271 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:50:17.271 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:50:18.058 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:50:18.174 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 116.6762ms
+2021-10-09 23:50:18.347 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:50:18.436 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 88.6607ms
+2021-10-09 23:50:54.628 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:50:54.675 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:50:54.675 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:50:54.675 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:50:55.157 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:50:55.270 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 115.1254ms
+2021-10-09 23:50:55.437 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:50:55.528 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 89.9638ms
+2021-10-09 23:52:07.317 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:52:07.366 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:52:07.366 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:52:07.367 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:52:07.891 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:52:08.010 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 122.2740ms
+2021-10-09 23:52:08.209 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:52:08.305 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 96.5161ms
+2021-10-09 23:52:36.922 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:52:36.970 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:52:36.971 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:52:36.972 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:52:37.745 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:52:37.856 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 113.5654ms
+2021-10-09 23:52:38.052 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:52:38.154 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 101.9250ms
+2021-10-09 23:53:56.028 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:53:56.075 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:53:56.075 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:53:56.075 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:53:56.723 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:53:56.887 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 165.5389ms
+2021-10-09 23:53:57.063 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:53:57.151 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.3029ms
+2021-10-09 23:55:25.673 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:55:25.741 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:55:25.741 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:55:25.741 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:55:26.405 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:55:26.512 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 109.2528ms
+2021-10-09 23:55:26.698 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:55:26.783 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 84.7785ms
+2021-10-09 23:55:30.719 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - -
+2021-10-09 23:55:30.754 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:55:30.781 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:55:30.824 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:55:30.840 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 51.6556ms
+2021-10-09 23:55:30.844 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:55:30.845 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - - - 200 - application/json;+charset=utf-8 126.3335ms
+2021-10-09 23:55:34.876 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=1&Take=1 - -
+2021-10-09 23:55:34.879 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:55:34.882 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:55:34.889 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:55:34.892 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 6.2216ms
+2021-10-09 23:55:34.893 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:55:34.894 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=1&Take=1 - - - 200 - application/json;+charset=utf-8 17.9499ms
+2021-10-09 23:55:38.977 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=1&Take=1 - -
+2021-10-09 23:55:38.979 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:55:38.982 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:55:38.986 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:55:38.988 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 2.7705ms
+2021-10-09 23:55:38.990 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:55:38.991 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person?Skip=1&Take=1 - - - 200 - application/json;+charset=utf-8 14.2797ms
+2021-10-09 23:55:48.616 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - -
+2021-10-09 23:55:48.618 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:55:48.620 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:55:48.624 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:55:48.626 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 2.0825ms
+2021-10-09 23:55:48.628 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:55:48.630 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - - - 200 - application/json;+charset=utf-8 13.9808ms
+2021-10-09 23:56:01.145 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:56:01.194 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:56:01.195 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:56:01.196 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:56:01.895 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:56:02.009 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 116.3208ms
+2021-10-09 23:56:02.200 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:56:02.288 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 88.3024ms
+2021-10-09 23:56:08.891 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - -
+2021-10-09 23:56:08.927 +03:00 [INF] Executing endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:56:08.954 +03:00 [INF] Route matched with {action = "GetAllPersons", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Homework_6_9.Models.HomeTask_8_9_Models.Person]] GetAllPersons(Homework_6_9.Models.HomeTask_8_9_Models.PersonFilterModel) on controller Homework_6_9.Controllers.PersonController (Homework 6-9).
+2021-10-09 23:56:08.994 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Homework_6_9.Models.HomeTask_8_9_Models.Person, Homework 6-9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-10-09 23:56:09.010 +03:00 [INF] Executed action Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9) in 49.3097ms
+2021-10-09 23:56:09.014 +03:00 [INF] Executed endpoint 'Homework_6_9.Controllers.PersonController.GetAllPersons (Homework 6-9)'
+2021-10-09 23:56:09.015 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/HomeTask 8 Controllers/Person - - - 200 - application/json;+charset=utf-8 123.8087ms
+2021-10-09 23:57:21.484 +03:00 [INF] Now listening on: http://localhost:5000
+2021-10-09 23:57:21.528 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-09 23:57:21.529 +03:00 [INF] Hosting environment: Development
+2021-10-09 23:57:21.529 +03:00 [INF] Content root path: D:\git\HomeworkDenisDubina\Homework 6-9
+2021-10-09 23:57:22.261 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2021-10-09 23:57:22.384 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 125.0801ms
+2021-10-09 23:57:22.574 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2021-10-09 23:57:22.665 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.7875ms
