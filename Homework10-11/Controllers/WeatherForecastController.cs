@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using HomeWork10.Filters;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -26,7 +27,8 @@ namespace HomeWork10.Controllers
 
         [HttpGet]
         [Route("protected")]
-        [Authorize]
+        [SimpleAuthFilter]
+        //[Authorize]
         public IEnumerable<WeatherForecast> GetProtected()
         {
             var rng = new Random();
